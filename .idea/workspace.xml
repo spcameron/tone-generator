@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ed8f71e-300d-4877-b7fd-d34aaaa2cc0a" name="Changes" comment="first build">
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spcmusic/domain/Oscillator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spcmusic/domain/Oscillator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spcmusic/logic/EDOFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spcmusic/logic/EDOFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spcmusic/logic/IntervalBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spcmusic/logic/IntervalBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spcmusic/ui/IntervalBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spcmusic/ui/IntervalBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spcmusic/ui/ToneBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spcmusic/ui/ToneBox.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2jwbtCdzqbGRySVpQYy6lvXKgjF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Application.MultiToneApp.executor": "Run",
+    "Maven.tone-generator [clean].executor": "Run",
+    "Maven.tone-generator [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/spc/Library/CloudStorage/Dropbox/SEAN/ARCHIVE/Programming/_projects/tone-generator",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.5",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ed8f71e-300d-4877-b7fd-d34aaaa2cc0a" name="Changes" comment="" />
+      <created>1722301299402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722301299402</updated>
+      <workItem from="1722301300935" duration="8000" />
+      <workItem from="1722301316226" duration="2502000" />
+      <workItem from="1722475449755" duration="47866000" />
+      <workItem from="1722714488184" duration="26421000" />
+      <workItem from="1722980420639" duration="2000" />
+      <workItem from="1724116590481" duration="413000" />
+      <workItem from="1724160234536" duration="1124000" />
+      <workItem from="1724161531382" duration="182000" />
+      <workItem from="1725501326587" duration="4000" />
+      <workItem from="1725556971212" duration="483000" />
+      <workItem from="1725634540155" duration="132000" />
+      <workItem from="1725635139621" duration="120000" />
+      <workItem from="1725635278266" duration="23000" />
+      <workItem from="1725635490473" duration="54000" />
+      <workItem from="1725743286536" duration="260000" />
+      <workItem from="1725743553159" duration="15000" />
+      <workItem from="1725743773567" duration="325000" />
+    </task>
+    <task id="LOCAL-00001" summary="first build">
+      <option name="closed" value="true" />
+      <created>1725743831344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725743831344</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first build" />
+    <option name="LAST_COMMIT_MESSAGE" value="first build" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
