@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ed8f71e-300d-4877-b7fd-d34aaaa2cc0a" name="Changes" comment="first build">
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spcmusic/domain/Oscillator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spcmusic/domain/Oscillator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spcmusic/logic/EDOFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spcmusic/logic/EDOFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spcmusic/logic/IntervalBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spcmusic/logic/IntervalBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spcmusic/ui/IntervalBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spcmusic/ui/IntervalBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spcmusic/ui/ToneBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spcmusic/ui/ToneBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +90,7 @@
       <workItem from="1725635490473" duration="54000" />
       <workItem from="1725743286536" duration="260000" />
       <workItem from="1725743553159" duration="15000" />
-      <workItem from="1725743773567" duration="325000" />
+      <workItem from="1725743773567" duration="1117000" />
     </task>
     <task id="LOCAL-00001" summary="first build">
       <option name="closed" value="true" />
